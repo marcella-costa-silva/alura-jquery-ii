@@ -1,1 +1,1 @@
-# jquery-game-ii
+# jquery-game
